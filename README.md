@@ -139,13 +139,7 @@ streamlit run app/app_streamlit.py
 - Advanced visualization: interactive chart of historical prices (Close), period selection, overlay of predictions on the chart
 - Professional and scalable user experience
 
-## 🌐 REST API (Flask & FastAPI)
-
-- Launch the Flask API:
-
-  ```bash
-  python api/app_flask.py
-  ```
+## 🌐 REST API (FastAPI)
 
 - Launch the FastAPI API:
 
