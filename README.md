@@ -1,5 +1,9 @@
 # MarketPredictor
 
+**Worked on:** January 2026 - February 2026
+
+**Stack:** _Python, Scikit-learn, Pandas, Plotly, yfinance, Streamlit, FastAPI_
+
 **Directional analysis and prediction of financial markets (CAC40, S&P500, etc.) with automated pipeline, interactive dashboard, REST API.**
 
 ---
