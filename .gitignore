@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# API and Streamlit cache (optional, if you use @st.cache)
+.cache/
+
+# Ignore environment config
+.env
+
+# Ignore logs
+*.log
+
+# Ignore test outputs
+*.pytest_cache/
+
+# Ignore user-specific files
+*.swp
+*.swo
+
+# Ignore build outputs
+dist/
+build/
+
+# Ignore package metadata
+*.egg-info/
